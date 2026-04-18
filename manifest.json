@@ -6,6 +6,5 @@
   "description": "Select a URL in your note, fetch the page, and paste its content as Markdown right after the link.",
   "author": "ZY W",
   "authorUrl": "https://github.com/spaceX-Mars",
-  "isDesktopOnly": false,
-  "repo": "spaceX-Mars/PageCon"
+  "isDesktopOnly": false
 }

@@ -106,24 +106,6 @@ If you find a security issue, please open a [GitHub issue](https://github.com/sp
 
 ---
 
-## Development
-
-```bash
-# Install dependencies
-npm install
-
-# Development build (watch mode)
-npm run dev
-
-# Production build
-npm run build
-
-# Lint
-npm run lint
-```
-
-Copy `main.js` and `manifest.json` to `<your vault>/.obsidian/plugins/page-con/` after building.
-
 ## License
 
 MIT — see [LICENSE](LICENSE)
